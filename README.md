@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on C# mobile apps and websites for school
 - 🌱 I’m currently learning Computer Science and specializing in Data Analysis at Sheridan College in Ontario, Canada
 - ⚡ I'm familiar with Python, HTML and CSS. 
-- 📫 How to reach me: Telegram or Discord
+- 📫 How to reach me: [Telegram](t.me/Kurotsun) or Discord
 - 😄 Pronouns: he/him
 
 <!--
